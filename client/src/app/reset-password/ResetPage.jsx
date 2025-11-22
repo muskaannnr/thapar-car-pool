@@ -75,7 +75,7 @@ function ResetPasswordPage() {
     setIsLoading(true);
     try {
       const response = await fetch(
-        "https://api.thaparpool.rebec.in/auth/reset-password",
+        "https://thapar-car-pool-production.up.railway.app/auth/reset-password",
         {
           method: "POST",
           headers: {

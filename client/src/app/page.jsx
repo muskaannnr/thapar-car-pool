@@ -83,7 +83,7 @@ function DashboardPage() {
 
   const fetchCurrentUser = async () => {
     try {
-      const response = await fetch("https://api.thaparpool.rebec.in/auth/me", {
+      const response = await fetch("https://thapar-car-pool-production.up.railway.app/auth/me", {
         headers: {
           "Content-Type": "application/json",
           "auth-token": getAuthToken(),
@@ -107,7 +107,7 @@ function DashboardPage() {
     setProcessingPoolId(poolId);
     try {
       const response = await fetch(
-        `https://api.thaparpool.rebec.in/pool/${poolId}/${action}`,
+        `https://thapar-car-pool-production.up.railway.app/pool/${poolId}/${action}`,
         {
           method: "POST",
           headers: {
@@ -245,7 +245,7 @@ function DashboardPage() {
     setIsLoadingRides(true);
     try {
       const response = await fetch(
-        "https://api.thaparpool.rebec.in/pool/myupcoming",
+        "https://thapar-car-pool-production.up.railway.app/pool/myupcoming",
         {
           method: "GET",
           headers: {
@@ -275,7 +275,7 @@ function DashboardPage() {
     setIsSearching(true);
     try {
       const response = await fetch(
-        `https://api.thaparpool.rebec.in/pool/search?trainno=${trainNumber}&journeyDate=${searchDate}`,
+        `https://thapar-car-pool-production.up.railway.app/pool/search?trainno=${trainNumber}&journeyDate=${searchDate}`,
         {
           method: "GET",
           headers: {
@@ -337,7 +337,7 @@ function DashboardPage() {
     setJoiningPool(poolId);
     try {
       const response = await fetch(
-        `https://api.thaparpool.rebec.in/pool/${poolId}/join`,
+        `https://thapar-car-pool-production.up.railway.app/pool/${poolId}/join`,
         {
           method: "POST",
           headers: {

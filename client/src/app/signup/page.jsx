@@ -101,7 +101,7 @@ function SignupPage() {
     setIsLoading(true);
     try {
       const response = await fetch(
-        "https://api.thaparpool.rebec.in/auth/register",
+        "https://thapar-car-pool-production.up.railway.app/auth/register",
         {
           method: "POST",
           headers: {

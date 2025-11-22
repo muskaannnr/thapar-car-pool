@@ -43,7 +43,7 @@ const PoolDetailsPage = () => {
     const fetchData = async () => {
       try {
         const userResponse = await fetch(
-          "https://api.thaparpool.rebec.in/auth/me",
+          "https://thapar-car-pool-production.up.railway.app/auth/me",
           {
             headers: {
               "auth-token": getAuthToken(),
@@ -55,7 +55,7 @@ const PoolDetailsPage = () => {
         setCurrentUser(userData);
 
         const poolResponse = await fetch(
-          `https://api.thaparpool.rebec.in/pool/${poolId}`,
+          `https://thapar-car-pool-production.up.railway.app/pool/${poolId}`,
           {
             headers: {
               "auth-token": getAuthToken(),
@@ -101,7 +101,7 @@ const PoolDetailsPage = () => {
 
   const handleLeavePool = async () => {
     try {
-      await fetch(`https://api.thaparpool.rebec.in/pool/${poolId}/leave`, {
+      await fetch(`https://thapar-car-pool-production.up.railway.app/pool/${poolId}/leave`, {
         method: "POST",
         headers: {
           "auth-token": getAuthToken(),
@@ -116,7 +116,7 @@ const PoolDetailsPage = () => {
   const handleToggleLock = async () => {
     try {
       await fetch(
-        `https://api.thaparpool.rebec.in/pool/${poolId}/toggle-lock`,
+        `https://thapar-car-pool-production.up.railway.app/pool/${poolId}/toggle-lock`,
         {
           method: "POST",
           headers: {

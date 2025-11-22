@@ -24,7 +24,7 @@ const CreatePoolModal = ({ isOpen, onClose, onSubmit }) => {
     setError("");
 
     try {
-      const response = await fetch("https://api.thaparpool.rebec.in/pool/new", {
+      const response = await fetch("https://thapar-car-pool-production.up.railway.app/pool/new", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

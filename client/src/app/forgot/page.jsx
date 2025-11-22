@@ -53,7 +53,7 @@ function ForgotPasswordPage() {
     setIsLoading(true);
     try {
       const response = await fetch(
-        "https://api.thaparpool.rebec.in/auth/forgot-password",
+        "https://thapar-car-pool-production.up.railway.app/auth/forgot-password",
         {
           method: "POST",
           headers: {
