@@ -1,0 +1,2194 @@
+[
+  {
+    "TrainNo": "14526",
+    "TrainName": "SGNR - UMB I",
+    "Source": "SGNR",
+    "ArrivalTime": "20:55:00",
+    "Destination": "UMB",
+    "DepartureTime": "20:55:00"
+  },
+  {
+    "TrainNo": "14553",
+    "TrainName": "HIMACHAL  EXPRESS",
+    "Source": "DLI",
+    "ArrivalTime": "02:55:00",
+    "Destination": "AADR",
+    "DepartureTime": "03:05:00"
+  },
+  {
+    "TrainNo": "14554",
+    "TrainName": "HIMACHAL  EXPRESS",
+    "Source": "AADR",
+    "ArrivalTime": "01:30:00",
+    "Destination": "DLI",
+    "DepartureTime": "01:40:00"
+  },
+  {
+    "TrainNo": "14603",
+    "TrainName": "JANSADHARAN",
+    "Source": "SHC",
+    "ArrivalTime": "22:00:00",
+    "Destination": "ASR",
+    "DepartureTime": "22:18:00"
+  },
+  {
+    "TrainNo": "14604",
+    "TrainName": "JANSADHARAN",
+    "Source": "ASR",
+    "ArrivalTime": "17:15:00",
+    "Destination": "SHC",
+    "DepartureTime": "17:25:00"
+  },
+  {
+    "TrainNo": "14609",
+    "TrainName": "HEMKUNT  EXPRESS",
+    "Source": "RKSH",
+    "ArrivalTime": "21:10:00",
+    "Destination": "SVDK",
+    "DepartureTime": "21:20:00"
+  },
+  {
+    "TrainNo": "14610",
+    "TrainName": "HEMKUNT  EXPRESS",
+    "Source": "SVDK",
+    "ArrivalTime": "02:40:00",
+    "Destination": "RKSH",
+    "DepartureTime": "02:50:00"
+  },
+  {
+    "TrainNo": "14611",
+    "TrainName": "GCT-SVDK  EXPRESS",
+    "Source": "GCT",
+    "ArrivalTime": "03:15:00",
+    "Destination": "SVDK",
+    "DepartureTime": "03:25:00"
+  },
+  {
+    "TrainNo": "14615",
+    "TrainName": "LKU-ASR  EXPRESS",
+    "Source": "LKU",
+    "ArrivalTime": "07:55:00",
+    "Destination": "ASR",
+    "DepartureTime": "08:00:00"
+  },
+  {
+    "TrainNo": "14616",
+    "TrainName": "ASR-LKU  EXPRESS",
+    "Source": "ASR",
+    "ArrivalTime": "11:40:00",
+    "Destination": "LKU",
+    "DepartureTime": "11:50:00"
+  },
+  {
+    "TrainNo": "14631",
+    "TrainName": "DDN ASR  EXPRESS",
+    "Source": "DDN",
+    "ArrivalTime": "01:40:00",
+    "Destination": "ASR",
+    "DepartureTime": "01:50:00"
+  },
+  {
+    "TrainNo": "14632",
+    "TrainName": "ASR DDN PASS",
+    "Source": "ASR",
+    "ArrivalTime": "03:17:00",
+    "Destination": "DDN",
+    "DepartureTime": "03:25:00"
+  },
+  {
+    "TrainNo": "14645",
+    "TrainName": "SHALIMAR  EXPRESS",
+    "Source": "DLI",
+    "ArrivalTime": "21:35:00",
+    "Destination": "JAT",
+    "DepartureTime": "21:45:00"
+  },
+  {
+    "TrainNo": "14646",
+    "TrainName": "SHALIMAR  EXPRESS",
+    "Source": "JAT",
+    "ArrivalTime": "04:50:00",
+    "Destination": "DLI",
+    "DepartureTime": "05:00:00"
+  },
+  {
+    "TrainNo": "14649",
+    "TrainName": "SARYUYAMUNA",
+    "Source": "JYG",
+    "ArrivalTime": "17:47:00",
+    "Destination": "ASR",
+    "DepartureTime": "17:55:00"
+  },
+  {
+    "TrainNo": "14650",
+    "TrainName": "SARYUYAMUNA",
+    "Source": "ASR",
+    "ArrivalTime": "17:00:00",
+    "Destination": "JYG",
+    "DepartureTime": "17:10:00"
+  },
+  {
+    "TrainNo": "14673",
+    "TrainName": "SHAHEED  EXPRESS",
+    "Source": "JYG",
+    "ArrivalTime": "17:47:00",
+    "Destination": "ASR",
+    "DepartureTime": "17:55:00"
+  },
+  {
+    "TrainNo": "14674",
+    "TrainName": "SHAHEED  EXPRESS",
+    "Source": "ASR",
+    "ArrivalTime": "17:00:00",
+    "Destination": "JYG",
+    "DepartureTime": "17:10:00"
+  },
+  {
+    "TrainNo": "14681",
+    "TrainName": "NDLS-JUC  EXPRESS",
+    "Source": "NDLS",
+    "ArrivalTime": "20:10:00",
+    "Destination": "JUC",
+    "DepartureTime": "20:20:00"
+  },
+  {
+    "TrainNo": "14682",
+    "TrainName": "JUC-NDLS  EXPRESS",
+    "Source": "JUC",
+    "ArrivalTime": "07:35:00",
+    "Destination": "NDLS",
+    "DepartureTime": "07:45:00"
+  },
+  {
+    "TrainNo": "14711",
+    "TrainName": "HW SGNR  EXPRESS",
+    "Source": "HW",
+    "ArrivalTime": "17:30:00",
+    "Destination": "SGNR",
+    "DepartureTime": "17:35:00"
+  },
+  {
+    "TrainNo": "14712",
+    "TrainName": "SGNR HW   EXPRESS",
+    "Source": "SGNR",
+    "ArrivalTime": "10:30:00",
+    "Destination": "HW",
+    "DepartureTime": "10:35:00"
+  },
+  {
+    "TrainNo": "14715",
+    "TrainName": "HSR HW  EXPRESS",
+    "Source": "HSR",
+    "ArrivalTime": "11:50:00",
+    "Destination": "HW",
+    "DepartureTime": "12:15:00"
+  },
+  {
+    "TrainNo": "14716",
+    "TrainName": "HW HSR  EXPRESS",
+    "Source": "HW",
+    "ArrivalTime": "19:30:00",
+    "Destination": "HSR",
+    "DepartureTime": "19:55:00"
+  },
+  {
+    "TrainNo": "14717",
+    "TrainName": "BKN HW  EXPRESS",
+    "Source": "BKN",
+    "ArrivalTime": "11:50:00",
+    "Destination": "HW",
+    "DepartureTime": "12:15:00"
+  },
+  {
+    "TrainNo": "14718",
+    "TrainName": "HW BKN  EXPRESS",
+    "Source": "HW",
+    "ArrivalTime": "19:30:00",
+    "Destination": "BKN",
+    "DepartureTime": "19:55:00"
+  },
+  {
+    "TrainNo": "14731",
+    "TrainName": "DLI FKA  EXPRESS",
+    "Source": "DLI",
+    "ArrivalTime": "18:15:00",
+    "Destination": "FKA",
+    "DepartureTime": "18:25:00"
+  },
+  {
+    "TrainNo": "14732",
+    "TrainName": "FKA DLI  EXPRESS",
+    "Source": "FKA",
+    "ArrivalTime": "09:00:00",
+    "Destination": "DLI",
+    "DepartureTime": "09:05:00"
+  },
+  {
+    "TrainNo": "14887",
+    "TrainName": "KLK BME  EXPRESS",
+    "Source": "KLK",
+    "ArrivalTime": "23:15:00",
+    "Destination": "BME",
+    "DepartureTime": "23:45:00"
+  },
+  {
+    "TrainNo": "14888",
+    "TrainName": "BARMER  KLK",
+    "Source": "BME",
+    "ArrivalTime": "03:55:00",
+    "Destination": "KLK",
+    "DepartureTime": "04:27:00"
+  },
+  {
+    "TrainNo": "15011",
+    "TrainName": "LJN-SRE  EXPRESS",
+    "Source": "LJN",
+    "ArrivalTime": "13:55:00",
+    "Destination": "CDG",
+    "DepartureTime": "14:05:00"
+  },
+  {
+    "TrainNo": "15012",
+    "TrainName": "LJN SRE  EXPRESS",
+    "Source": "CDG",
+    "ArrivalTime": "17:55:00",
+    "Destination": "LJN",
+    "DepartureTime": "18:08:00"
+  },
+  {
+    "TrainNo": "15097",
+    "TrainName": "AMARNATH  EXPRESS",
+    "Source": "BGP",
+    "ArrivalTime": "05:40:00",
+    "Destination": "JAT",
+    "DepartureTime": "05:48:00"
+  },
+  {
+    "TrainNo": "15098",
+    "TrainName": "AMARNATH  EXPRESS",
+    "Source": "JAT",
+    "ArrivalTime": "05:17:00",
+    "Destination": "BGP",
+    "DepartureTime": "05:25:00"
+  },
+  {
+    "TrainNo": "15209",
+    "TrainName": "SHC-ASR JANS",
+    "Source": "SHC",
+    "ArrivalTime": "12:05:00",
+    "Destination": "ASR",
+    "DepartureTime": "12:15:00"
+  },
+  {
+    "TrainNo": "15210",
+    "TrainName": "ASR-SHC JANS",
+    "Source": "ASR",
+    "ArrivalTime": "11:25:00",
+    "Destination": "SHC",
+    "DepartureTime": "11:35:00"
+  },
+  {
+    "TrainNo": "15211",
+    "TrainName": "DBG-ASR JANN",
+    "Source": "DBG",
+    "ArrivalTime": "20:50:00",
+    "Destination": "ASR",
+    "DepartureTime": "21:00:00"
+  },
+  {
+    "TrainNo": "15212",
+    "TrainName": "ASR- DBG JAN",
+    "Source": "ASR",
+    "ArrivalTime": "23:35:00",
+    "Destination": "DBG",
+    "DepartureTime": "23:45:00"
+  },
+  {
+    "TrainNo": "15531",
+    "TrainName": "SHC-ASR JSAD",
+    "Source": "SHC",
+    "ArrivalTime": "07:55:00",
+    "Destination": "ASR",
+    "DepartureTime": "08:00:00"
+  },
+  {
+    "TrainNo": "15532",
+    "TrainName": "ASR-SHC JSAD",
+    "Source": "ASR",
+    "ArrivalTime": "00:02:00",
+    "Destination": "SHC",
+    "DepartureTime": "00:10:00"
+  },
+  {
+    "TrainNo": "15651",
+    "TrainName": "GHY-JAT LOHI",
+    "Source": "GHY",
+    "ArrivalTime": "05:40:00",
+    "Destination": "JAT",
+    "DepartureTime": "05:48:00"
+  },
+  {
+    "TrainNo": "15652",
+    "TrainName": "GHY-JAT LOHI",
+    "Source": "JAT",
+    "ArrivalTime": "05:17:00",
+    "Destination": "GHY",
+    "DepartureTime": "05:25:00"
+  },
+  {
+    "TrainNo": "15653",
+    "TrainName": "AMARNATH  EXPRESS",
+    "Source": "GHY",
+    "ArrivalTime": "05:40:00",
+    "Destination": "JAT",
+    "DepartureTime": "05:48:00"
+  },
+  {
+    "TrainNo": "15654",
+    "TrainName": "JAMMU GHY  EXPRESS",
+    "Source": "JAT",
+    "ArrivalTime": "05:17:00",
+    "Destination": "GHY",
+    "DepartureTime": "05:25:00"
+  },
+  {
+    "TrainNo": "15655",
+    "TrainName": "KYQ - SVDK E",
+    "Source": "KYQ",
+    "ArrivalTime": "06:42:00",
+    "Destination": "SVDK",
+    "DepartureTime": "06:50:00"
+  },
+  {
+    "TrainNo": "15656",
+    "TrainName": "SVDK - KYQ E",
+    "Source": "SVDK",
+    "ArrivalTime": "13:00:00",
+    "Destination": "KYQ",
+    "DepartureTime": "13:10:00"
+  },
+  {
+    "TrainNo": "15707",
+    "TrainName": "KIR-ASR  EXPRESS",
+    "Source": "KIR",
+    "ArrivalTime": "06:50:00",
+    "Destination": "ASR",
+    "DepartureTime": "07:00:00"
+  },
+  {
+    "TrainNo": "15708",
+    "TrainName": "ASR-KIR  EXPRESS",
+    "Source": "ASR",
+    "ArrivalTime": "11:55:00",
+    "Destination": "KIR",
+    "DepartureTime": "12:00:00"
+  },
+  {
+    "TrainNo": "15903",
+    "TrainName": "DBRG-CDG  EXPRESS",
+    "Source": "DBRG",
+    "ArrivalTime": "12:30:00",
+    "Destination": "CDG",
+    "DepartureTime": "12:42:00"
+  },
+  {
+    "TrainNo": "15904",
+    "TrainName": "CDG-DBRG  EXPRESS",
+    "Source": "CDG",
+    "ArrivalTime": "00:02:00",
+    "Destination": "DBRG",
+    "DepartureTime": "00:10:00"
+  },
+  {
+    "TrainNo": "15933",
+    "TrainName": "DBRG-ASR  EXPRESS",
+    "Source": "DBRG",
+    "ArrivalTime": "16:05:00",
+    "Destination": "ASR",
+    "DepartureTime": "16:15:00"
+  },
+  {
+    "TrainNo": "15934",
+    "TrainName": "ASR-DBRG  EXPRESS",
+    "Source": "ASR",
+    "ArrivalTime": "20:20:00",
+    "Destination": "DBRG",
+    "DepartureTime": "20:30:00"
+  },
+  {
+    "TrainNo": "18101",
+    "TrainName": "TATA  MURI -",
+    "Source": "TATA",
+    "ArrivalTime": "02:35:00",
+    "Destination": "JAT",
+    "DepartureTime": "02:45:00"
+  },
+  {
+    "TrainNo": "18102",
+    "TrainName": "JAT MURI  TA",
+    "Source": "JAT",
+    "ArrivalTime": "00:30:00",
+    "Destination": "TATA",
+    "DepartureTime": "00:40:00"
+  },
+  {
+    "TrainNo": "18103",
+    "TrainName": "JALLIANWALA",
+    "Source": "TATA",
+    "ArrivalTime": "02:03:00",
+    "Destination": "ASR",
+    "DepartureTime": "02:10:00"
+  },
+  {
+    "TrainNo": "18104",
+    "TrainName": "JALLIANWALAB",
+    "Source": "ASR",
+    "ArrivalTime": "16:50:00",
+    "Destination": "TATA",
+    "DepartureTime": "17:00:00"
+  },
+  {
+    "TrainNo": "18215",
+    "TrainName": "DURG - JAT E",
+    "Source": "DURG",
+    "ArrivalTime": "11:15:00",
+    "Destination": "JAT",
+    "DepartureTime": "11:20:00"
+  },
+  {
+    "TrainNo": "18216",
+    "TrainName": "JAT - DURG E",
+    "Source": "JAT",
+    "ArrivalTime": "15:05:00",
+    "Destination": "DURG",
+    "DepartureTime": "15:20:00"
+  },
+  {
+    "TrainNo": "18237",
+    "TrainName": "BSP-ASR CHHA",
+    "Source": "BSP",
+    "ArrivalTime": "02:18:00",
+    "Destination": "ASR",
+    "DepartureTime": "02:25:00"
+  },
+  {
+    "TrainNo": "18238",
+    "TrainName": "ASR-BSP CHHA",
+    "Source": "ASR",
+    "ArrivalTime": "22:08:00",
+    "Destination": "BSP",
+    "DepartureTime": "22:20:00"
+  },
+  {
+    "TrainNo": "18507",
+    "TrainName": "VSKP-ASR HIR",
+    "Source": "VSKP",
+    "ArrivalTime": "18:30:00",
+    "Destination": "ASR",
+    "DepartureTime": "18:40:00"
+  },
+  {
+    "TrainNo": "18508",
+    "TrainName": "ASR-VSKP HIR",
+    "Source": "ASR",
+    "ArrivalTime": "04:10:00",
+    "Destination": "VSKP",
+    "DepartureTime": "04:20:00"
+  },
+  {
+    "TrainNo": "19307",
+    "TrainName": "CHANDIGARH E",
+    "Source": "INDB",
+    "ArrivalTime": "05:50:00",
+    "Destination": "CDG",
+    "DepartureTime": "06:00:00"
+  },
+  {
+    "TrainNo": "19308",
+    "TrainName": "CDG  INDB  E",
+    "Source": "CDG",
+    "ArrivalTime": "19:58:00",
+    "Destination": "INDB",
+    "DepartureTime": "20:10:00"
+  },
+  {
+    "TrainNo": "19325",
+    "TrainName": "IND AMRITSAR",
+    "Source": "INDB",
+    "ArrivalTime": "16:25:00",
+    "Destination": "ASR",
+    "DepartureTime": "16:35:00"
+  },
+  {
+    "TrainNo": "19326",
+    "TrainName": "ASR INDB  EXPRESS",
+    "Source": "ASR",
+    "ArrivalTime": "04:03:00",
+    "Destination": "INDB",
+    "DepartureTime": "04:13:00"
+  },
+  {
+    "TrainNo": "19717",
+    "TrainName": "JP CDG  INTERCITY EXPRESS",
+    "Source": "JP",
+    "ArrivalTime": "03:50:00",
+    "Destination": "CDG",
+    "DepartureTime": "04:12:00"
+  },
+  {
+    "TrainNo": "19718",
+    "TrainName": "CDG JP  INTERCITY EXPRESS",
+    "Source": "CDG",
+    "ArrivalTime": "13:45:00",
+    "Destination": "JP",
+    "DepartureTime": "13:55:00"
+  },
+  {
+    "TrainNo": "19805",
+    "TrainName": "KOTA-UHP WEE",
+    "Source": "KOTA",
+    "ArrivalTime": "03:15:00",
+    "Destination": "UHP",
+    "DepartureTime": "03:25:00"
+  },
+  {
+    "TrainNo": "19806",
+    "TrainName": "UHP-KOTA WEE",
+    "Source": "UHP",
+    "ArrivalTime": "23:45:00",
+    "Destination": "KOTA",
+    "DepartureTime": "23:55:00"
+  },
+  {
+    "TrainNo": "22125",
+    "TrainName": "NGP-ASR AC E",
+    "Source": "NGP",
+    "ArrivalTime": "16:47:00",
+    "Destination": "ASR",
+    "DepartureTime": "16:52:00"
+  },
+  {
+    "TrainNo": "22126",
+    "TrainName": "ASR-NGP AC E",
+    "Source": "ASR",
+    "ArrivalTime": "08:05:00",
+    "Destination": "NGP",
+    "DepartureTime": "08:10:00"
+  },
+  {
+    "TrainNo": "22356",
+    "TrainName": "CDG - PPTA S",
+    "Source": "CDG",
+    "ArrivalTime": "22:45:00",
+    "Destination": "PPTA",
+    "DepartureTime": "22:50:00"
+  },
+  {
+    "TrainNo": "22401",
+    "TrainName": "DEE-UHP AC E",
+    "Source": "DEE",
+    "ArrivalTime": "01:05:00",
+    "Destination": "UHP",
+    "DepartureTime": "01:10:00"
+  },
+  {
+    "TrainNo": "22402",
+    "TrainName": "UHP-DEE AC E",
+    "Source": "UHP",
+    "ArrivalTime": "01:15:00",
+    "Destination": "DEE",
+    "DepartureTime": "01:20:00"
+  },
+  {
+    "TrainNo": "22423",
+    "TrainName": "GKP-ASR SUPE",
+    "Source": "GKP",
+    "ArrivalTime": "02:03:00",
+    "Destination": "ASR",
+    "DepartureTime": "02:10:00"
+  },
+  {
+    "TrainNo": "22424",
+    "TrainName": "ASR-GKP SUPE",
+    "Source": "ASR",
+    "ArrivalTime": "16:50:00",
+    "Destination": "GKP",
+    "DepartureTime": "17:00:00"
+  },
+  {
+    "TrainNo": "22429",
+    "TrainName": "DLI-PTK  EXPRESS",
+    "Source": "DLI",
+    "ArrivalTime": "11:15:00",
+    "Destination": "PTK",
+    "DepartureTime": "11:20:00"
+  },
+  {
+    "TrainNo": "22430",
+    "TrainName": "PTK-DLI SUPE",
+    "Source": "PTK",
+    "ArrivalTime": "13:40:00",
+    "Destination": "DLI",
+    "DepartureTime": "13:45:00"
+  },
+  {
+    "TrainNo": "22431",
+    "TrainName": "ALD-UHP BI-W",
+    "Source": "ALD",
+    "ArrivalTime": "05:05:00",
+    "Destination": "UHP",
+    "DepartureTime": "05:10:00"
+  },
+  {
+    "TrainNo": "22432",
+    "TrainName": "UHP-ALD BI-W",
+    "Source": "UHP",
+    "ArrivalTime": "01:00:00",
+    "Destination": "ALD",
+    "DepartureTime": "01:10:00"
+  },
+  {
+    "TrainNo": "22445",
+    "TrainName": "CNB ASR SUPE",
+    "Source": "CNB",
+    "ArrivalTime": "05:05:00",
+    "Destination": "ASR",
+    "DepartureTime": "05:10:00"
+  },
+  {
+    "TrainNo": "22446",
+    "TrainName": "ASR CNB  EXPRESS",
+    "Source": "ASR",
+    "ArrivalTime": "16:55:00",
+    "Destination": "CNB",
+    "DepartureTime": "17:00:00"
+  },
+  {
+    "TrainNo": "22451",
+    "TrainName": "BDTS - CDG E",
+    "Source": "BDTS",
+    "ArrivalTime": "15:15:00",
+    "Destination": "CDG",
+    "DepartureTime": "15:25:00"
+  },
+  {
+    "TrainNo": "22452",
+    "TrainName": "CDG - BDTS E",
+    "Source": "CDG",
+    "ArrivalTime": "06:30:00",
+    "Destination": "BDTS",
+    "DepartureTime": "06:40:00"
+  },
+  {
+    "TrainNo": "22455",
+    "TrainName": "SNSI-KLK SUP",
+    "Source": "SNSI",
+    "ArrivalTime": "10:50:00",
+    "Destination": "KLK",
+    "DepartureTime": "10:58:00"
+  },
+  {
+    "TrainNo": "22456",
+    "TrainName": "KLK-SNSI SUP",
+    "Source": "KLK",
+    "ArrivalTime": "20:30:00",
+    "Destination": "SNSI",
+    "DepartureTime": "20:40:00"
+  },
+  {
+    "TrainNo": "22457",
+    "TrainName": "NED-NLDM SUP",
+    "Source": "NED",
+    "ArrivalTime": "16:25:00",
+    "Destination": "UHL",
+    "DepartureTime": "16:42:00"
+  },
+  {
+    "TrainNo": "22458",
+    "TrainName": "NLDM-NED SUP",
+    "Source": "UHL",
+    "ArrivalTime": "19:58:00",
+    "Destination": "NED",
+    "DepartureTime": "20:10:00"
+  },
+  {
+    "TrainNo": "22461",
+    "TrainName": "SHRI SHAKTI",
+    "Source": "NDLS",
+    "ArrivalTime": "20:18:00",
+    "Destination": "SVDK",
+    "DepartureTime": "20:30:00"
+  },
+  {
+    "TrainNo": "22462",
+    "TrainName": "SHRI SHAKTI",
+    "Source": "SVDK",
+    "ArrivalTime": "07:55:00",
+    "Destination": "NDLS",
+    "DepartureTime": "08:00:00"
+  },
+  {
+    "TrainNo": "22685",
+    "TrainName": "YPR-CDG BI-",
+    "Source": "YPR",
+    "ArrivalTime": "17:35:00",
+    "Destination": "CDG",
+    "DepartureTime": "17:40:00"
+  },
+  {
+    "TrainNo": "22686",
+    "TrainName": "CDG-YPR BI W",
+    "Source": "CDG",
+    "ArrivalTime": "04:10:00",
+    "Destination": "YPR",
+    "DepartureTime": "04:20:00"
+  },
+  {
+    "TrainNo": "22687",
+    "TrainName": "SRE-CDG  LINK EXPRESS",
+    "Source": "SRE",
+    "ArrivalTime": "03:30:00",
+    "Destination": "CDG",
+    "DepartureTime": "03:38:00"
+  },
+  {
+    "TrainNo": "22688",
+    "TrainName": "CDG-MAS  LINK EXPRESS",
+    "Source": "CDG",
+    "ArrivalTime": "08:40:00",
+    "Destination": "SRE",
+    "DepartureTime": "08:45:00"
+  },
+  {
+    "TrainNo": "22705",
+    "TrainName": "TPTY-JAT",
+    "Source": "TPTY",
+    "ArrivalTime": "13:00:00",
+    "Destination": "JAT",
+    "DepartureTime": "13:10:00"
+  },
+  {
+    "TrainNo": "22706",
+    "TrainName": "JAT-TPTY",
+    "Source": "JAT",
+    "ArrivalTime": "13:00:00",
+    "Destination": "TPTY",
+    "DepartureTime": "13:15:00"
+  },
+  {
+    "TrainNo": "22925",
+    "TrainName": "UMB - KLK LI",
+    "Source": "UMB",
+    "ArrivalTime": "15:15:00",
+    "Destination": "KLK",
+    "DepartureTime": "15:15:00"
+  },
+  {
+    "TrainNo": "22926",
+    "TrainName": "KLK - UMB LI",
+    "Source": "KLK",
+    "ArrivalTime": "12:05:00",
+    "Destination": "UMB",
+    "DepartureTime": "12:05:00"
+  },
+  {
+    "TrainNo": "22941",
+    "TrainName": "INDB JAT SF",
+    "Source": "INDB",
+    "ArrivalTime": "18:30:00",
+    "Destination": "JAT",
+    "DepartureTime": "18:40:00"
+  },
+  {
+    "TrainNo": "22942",
+    "TrainName": "JAT INDB SF",
+    "Source": "JAT",
+    "ArrivalTime": "11:40:00",
+    "Destination": "INDB",
+    "DepartureTime": "11:50:00"
+  },
+  {
+    "TrainNo": "24887",
+    "TrainName": "HW-UMB  LINK EXPRESS",
+    "Source": "HW",
+    "ArrivalTime": "22:40:00",
+    "Destination": "UMB",
+    "DepartureTime": "00:00:00"
+  },
+  {
+    "TrainNo": "24888",
+    "TrainName": "UMB-HW   LINK EXPRESS",
+    "Source": "UMB",
+    "ArrivalTime": "04:45:00",
+    "Destination": "HW",
+    "DepartureTime": "04:45:00"
+  },
+  {
+    "TrainNo": "502",
+    "TrainName": "RJPB-UMB FTR",
+    "Source": "RJPB",
+    "ArrivalTime": "09:30:00",
+    "Destination": "UMB",
+    "DepartureTime": "09:30:00"
+  },
+  {
+    "TrainNo": "1707",
+    "TrainName": "JBP-ATT BI-W",
+    "Source": "JBP",
+    "ArrivalTime": "04:00:00",
+    "Destination": "ATT",
+    "DepartureTime": "04:05:00"
+  },
+  {
+    "TrainNo": "1708",
+    "TrainName": "ATT-JBP BI-W",
+    "Source": "ATT",
+    "ArrivalTime": "21:10:00",
+    "Destination": "JBP",
+    "DepartureTime": "21:15:00"
+  },
+  {
+    "TrainNo": "4401",
+    "TrainName": "ANVT-UHP  EXPRESS",
+    "Source": "ANVT",
+    "ArrivalTime": "03:15:00",
+    "Destination": "SVDK",
+    "DepartureTime": "03:25:00"
+  },
+  {
+    "TrainNo": "4402",
+    "TrainName": "UHP-ANVT  EXPRESS",
+    "Source": "SVDK",
+    "ArrivalTime": "09:10:00",
+    "Destination": "ANVT",
+    "DepartureTime": "09:20:00"
+  },
+  {
+    "TrainNo": "4409",
+    "TrainName": "DLI-SVDK SPL",
+    "Source": "DLI",
+    "ArrivalTime": "00:50:00",
+    "Destination": "SVDK",
+    "DepartureTime": "01:00:00"
+  },
+  {
+    "TrainNo": "4410",
+    "TrainName": "SVDK-DLI SPL",
+    "Source": "SVDK",
+    "ArrivalTime": "23:45:00",
+    "Destination": "DLI",
+    "DepartureTime": "23:55:00"
+  },
+  {
+    "TrainNo": "4831",
+    "TrainName": "JU HW SPL",
+    "Source": "JU",
+    "ArrivalTime": "05:30:00",
+    "Destination": "HW",
+    "DepartureTime": "05:40:00"
+  },
+  {
+    "TrainNo": "4832",
+    "TrainName": "HW JU SPL",
+    "Source": "HW",
+    "ArrivalTime": "20:30:00",
+    "Destination": "JU",
+    "DepartureTime": "20:40:00"
+  },
+  {
+    "TrainNo": "4921",
+    "TrainName": "SRE-UMB MEMU",
+    "Source": "SRE",
+    "ArrivalTime": "06:30:00",
+    "Destination": "UMB",
+    "DepartureTime": "06:30:00"
+  },
+  {
+    "TrainNo": "4922",
+    "TrainName": "UMB-SRE MEMU",
+    "Source": "UMB",
+    "ArrivalTime": "20:45:00",
+    "Destination": "SRE",
+    "DepartureTime": "20:45:00"
+  },
+  {
+    "TrainNo": "11057",
+    "TrainName": "AMRITSAR  EXPRESS",
+    "Source": "CSMT",
+    "ArrivalTime": "09:20:00",
+    "Destination": "ASR",
+    "DepartureTime": "09:40:00"
+  },
+  {
+    "TrainNo": "11058",
+    "TrainName": "ASR CSMT  EXPRESS",
+    "Source": "ASR",
+    "ArrivalTime": "15:20:00",
+    "Destination": "CSMT",
+    "DepartureTime": "15:50:00"
+  },
+  {
+    "TrainNo": "11077",
+    "TrainName": "JHELUM  EXPRESS",
+    "Source": "PUNE",
+    "ArrivalTime": "01:35:00",
+    "Destination": "JAT",
+    "DepartureTime": "01:45:00"
+  },
+  {
+    "TrainNo": "11078",
+    "TrainName": "JHELUM  EXPRESS",
+    "Source": "JAT",
+    "ArrivalTime": "05:40:00",
+    "Destination": "PUNE",
+    "DepartureTime": "05:50:00"
+  },
+  {
+    "TrainNo": "12005",
+    "TrainName": "NDLS-KLK- SH",
+    "Source": "NDLS",
+    "ArrivalTime": "19:55:00",
+    "Destination": "KLK",
+    "DepartureTime": "19:58:00"
+  },
+  {
+    "TrainNo": "12006",
+    "TrainName": "KLK-NDLS SHA",
+    "Source": "KLK",
+    "ArrivalTime": "07:33:00",
+    "Destination": "NDLS",
+    "DepartureTime": "07:38:00"
+  },
+  {
+    "TrainNo": "12011",
+    "TrainName": "NDLS-KLK SHA",
+    "Source": "NDLS",
+    "ArrivalTime": "10:28:00",
+    "Destination": "KLK",
+    "DepartureTime": "10:30:00"
+  },
+  {
+    "TrainNo": "12012",
+    "TrainName": "KLK-NDLS SHA",
+    "Source": "KLK",
+    "ArrivalTime": "19:03:00",
+    "Destination": "NDLS",
+    "DepartureTime": "19:05:00"
+  },
+  {
+    "TrainNo": "12013",
+    "TrainName": "NDLS-ASR SHA",
+    "Source": "NDLS",
+    "ArrivalTime": "18:50:00",
+    "Destination": "ASR",
+    "DepartureTime": "18:52:00"
+  },
+  {
+    "TrainNo": "12014",
+    "TrainName": "ASR-NDLS SHA",
+    "Source": "ASR",
+    "ArrivalTime": "08:30:00",
+    "Destination": "NDLS",
+    "DepartureTime": "08:32:00"
+  },
+  {
+    "TrainNo": "12029",
+    "TrainName": "SWARNA SHATA",
+    "Source": "NDLS",
+    "ArrivalTime": "09:55:00",
+    "Destination": "ASR",
+    "DepartureTime": "09:57:00"
+  },
+  {
+    "TrainNo": "12030",
+    "TrainName": "SWARNA SHATA",
+    "Source": "ASR",
+    "ArrivalTime": "20:30:00",
+    "Destination": "NDLS",
+    "DepartureTime": "20:32:00"
+  },
+  {
+    "TrainNo": "12031",
+    "TrainName": "NDLS-ASR-SHA",
+    "Source": "NDLS",
+    "ArrivalTime": "09:55:00",
+    "Destination": "ASR",
+    "DepartureTime": "09:57:00"
+  },
+  {
+    "TrainNo": "12032",
+    "TrainName": "ASR-NDLS SHA",
+    "Source": "ASR",
+    "ArrivalTime": "20:30:00",
+    "Destination": "NDLS",
+    "DepartureTime": "20:32:00"
+  },
+  {
+    "TrainNo": "12045",
+    "TrainName": "NDLS-CDG SHA",
+    "Source": "NDLS",
+    "ArrivalTime": "21:58:00",
+    "Destination": "CDG",
+    "DepartureTime": "22:00:00"
+  },
+  {
+    "TrainNo": "12046",
+    "TrainName": "CDG-NDLS SHA",
+    "Source": "CDG",
+    "ArrivalTime": "12:40:00",
+    "Destination": "NDLS",
+    "DepartureTime": "12:42:00"
+  },
+  {
+    "TrainNo": "12053",
+    "TrainName": "HW-ASR  EXPRESS",
+    "Source": "HW",
+    "ArrivalTime": "17:41:00",
+    "Destination": "ASR",
+    "DepartureTime": "17:50:00"
+  },
+  {
+    "TrainNo": "12054",
+    "TrainName": "ASR-HW JAN S",
+    "Source": "ASR",
+    "ArrivalTime": "10:55:00",
+    "Destination": "HW",
+    "DepartureTime": "11:05:00"
+  },
+  {
+    "TrainNo": "12057",
+    "TrainName": "NDLS-NLDM- J",
+    "Source": "NDLS",
+    "ArrivalTime": "18:07:00",
+    "Destination": "UHL",
+    "DepartureTime": "18:20:00"
+  },
+  {
+    "TrainNo": "12058",
+    "TrainName": "NDLS JANSHTB",
+    "Source": "UHL",
+    "ArrivalTime": "08:30:00",
+    "Destination": "NDLS",
+    "DepartureTime": "08:45:00"
+  },
+  {
+    "TrainNo": "12203",
+    "TrainName": "GARIB RATH",
+    "Source": "SHC",
+    "ArrivalTime": "16:47:00",
+    "Destination": "ASR",
+    "DepartureTime": "16:52:00"
+  },
+  {
+    "TrainNo": "12204",
+    "TrainName": "GRIB RATH",
+    "Source": "ASR",
+    "ArrivalTime": "08:05:00",
+    "Destination": "SHC",
+    "DepartureTime": "08:10:00"
+  },
+  {
+    "TrainNo": "12207",
+    "TrainName": "KGM-JAT GARI",
+    "Source": "KGM",
+    "ArrivalTime": "02:25:00",
+    "Destination": "JAT",
+    "DepartureTime": "02:33:00"
+  },
+  {
+    "TrainNo": "12208",
+    "TrainName": "JAT-KGM GARI",
+    "Source": "JAT",
+    "ArrivalTime": "06:15:00",
+    "Destination": "KGM",
+    "DepartureTime": "06:25:00"
+  },
+  {
+    "TrainNo": "12217",
+    "TrainName": "KERALA S.KRA",
+    "Source": "KCVL",
+    "ArrivalTime": "14:50:00",
+    "Destination": "CDG",
+    "DepartureTime": "15:00:00"
+  },
+  {
+    "TrainNo": "12218",
+    "TrainName": "KERALA S.KRA",
+    "Source": "CDG",
+    "ArrivalTime": "10:15:00",
+    "Destination": "KCVL",
+    "DepartureTime": "10:20:00"
+  },
+  {
+    "TrainNo": "12231",
+    "TrainName": "LKO - CDG  EXPRESS",
+    "Source": "LKO",
+    "ArrivalTime": "09:07:00",
+    "Destination": "CDG",
+    "DepartureTime": "09:15:00"
+  },
+  {
+    "TrainNo": "12232",
+    "TrainName": "CDG - LKO  EXPRESS",
+    "Source": "CDG",
+    "ArrivalTime": "21:50:00",
+    "Destination": "LKO",
+    "DepartureTime": "22:00:00"
+  },
+  {
+    "TrainNo": "12237",
+    "TrainName": "BSB-JAT EXP.",
+    "Source": "BSB",
+    "ArrivalTime": "04:10:00",
+    "Destination": "JAT",
+    "DepartureTime": "04:20:00"
+  },
+  {
+    "TrainNo": "12238",
+    "TrainName": "JAT-BSB EXP.",
+    "Source": "JAT",
+    "ArrivalTime": "20:50:00",
+    "Destination": "BSB",
+    "DepartureTime": "21:00:00"
+  },
+  {
+    "TrainNo": "12311",
+    "TrainName": "HWH DLIKLK M",
+    "Source": "HWH",
+    "ArrivalTime": "02:10:00",
+    "Destination": "KLK",
+    "DepartureTime": "02:20:00"
+  },
+  {
+    "TrainNo": "12312",
+    "TrainName": "KLK DLI HWH",
+    "Source": "KLK",
+    "ArrivalTime": "02:00:00",
+    "Destination": "HWH",
+    "DepartureTime": "02:20:00"
+  },
+  {
+    "TrainNo": "12317",
+    "TrainName": "AKAL TAKHT E",
+    "Source": "KOAA",
+    "ArrivalTime": "12:50:00",
+    "Destination": "ASR",
+    "DepartureTime": "13:00:00"
+  },
+  {
+    "TrainNo": "12318",
+    "TrainName": "AKAL TAKHAT",
+    "Source": "ASR",
+    "ArrivalTime": "10:05:00",
+    "Destination": "KOAA",
+    "DepartureTime": "10:15:00"
+  },
+  {
+    "TrainNo": "12325",
+    "TrainName": "KOAA-NANGALD",
+    "Source": "KOAA",
+    "ArrivalTime": "12:50:00",
+    "Destination": "NLDM",
+    "DepartureTime": "13:00:00"
+  },
+  {
+    "TrainNo": "12326",
+    "TrainName": "NLDM-KOAA WK",
+    "Source": "NLDM",
+    "ArrivalTime": "10:05:00",
+    "Destination": "KOAA",
+    "DepartureTime": "10:15:00"
+  },
+  {
+    "TrainNo": "12331",
+    "TrainName": "HIMGIRI  EXPRESS",
+    "Source": "HWH",
+    "ArrivalTime": "05:40:00",
+    "Destination": "JAT",
+    "DepartureTime": "05:48:00"
+  },
+  {
+    "TrainNo": "12332",
+    "TrainName": "HIMGIRI  EXPRESS",
+    "Source": "JAT",
+    "ArrivalTime": "05:17:00",
+    "Destination": "HWH",
+    "DepartureTime": "05:25:00"
+  },
+  {
+    "TrainNo": "12355",
+    "TrainName": "ARCHNA  EXPRESS",
+    "Source": "RJPB",
+    "ArrivalTime": "03:15:00",
+    "Destination": "JAT",
+    "DepartureTime": "03:25:00"
+  },
+  {
+    "TrainNo": "12356",
+    "TrainName": "ARCHNA  EXPRESS",
+    "Source": "JAT",
+    "ArrivalTime": "02:25:00",
+    "Destination": "RJPB",
+    "DepartureTime": "02:35:00"
+  },
+  {
+    "TrainNo": "12357",
+    "TrainName": "DURGIANA  EXPRESS",
+    "Source": "KOAA",
+    "ArrivalTime": "12:50:00",
+    "Destination": "ASR",
+    "DepartureTime": "13:00:00"
+  },
+  {
+    "TrainNo": "12358",
+    "TrainName": "ASR KOAA SUP",
+    "Source": "ASR",
+    "ArrivalTime": "10:05:00",
+    "Destination": "KOAA",
+    "DepartureTime": "10:15:00"
+  },
+  {
+    "TrainNo": "12379",
+    "TrainName": "JALIANWALA B",
+    "Source": "SDAH",
+    "ArrivalTime": "15:15:00",
+    "Destination": "ASR",
+    "DepartureTime": "15:25:00"
+  },
+  {
+    "TrainNo": "12380",
+    "TrainName": "JALIANWALA B",
+    "Source": "ASR",
+    "ArrivalTime": "15:05:00",
+    "Destination": "SDAH",
+    "DepartureTime": "15:20:00"
+  },
+  {
+    "TrainNo": "12407",
+    "TrainName": "KARMABHOOMI",
+    "Source": "NJP",
+    "ArrivalTime": "13:20:00",
+    "Destination": "ASR",
+    "DepartureTime": "13:25:00"
+  },
+  {
+    "TrainNo": "12408",
+    "TrainName": "KARMABHOOMI",
+    "Source": "ASR",
+    "ArrivalTime": "13:40:00",
+    "Destination": "NJP",
+    "DepartureTime": "13:45:00"
+  },
+  {
+    "TrainNo": "12413",
+    "TrainName": "AII-JAT POOJ",
+    "Source": "AII",
+    "ArrivalTime": "01:25:00",
+    "Destination": "JAT",
+    "DepartureTime": "01:35:00"
+  },
+  {
+    "TrainNo": "12414",
+    "TrainName": "JAT-AII POOJ",
+    "Source": "JAT",
+    "ArrivalTime": "00:55:00",
+    "Destination": "AII",
+    "DepartureTime": "01:00:00"
+  },
+  {
+    "TrainNo": "12445",
+    "TrainName": "UTTAR SMPRK",
+    "Source": "NDLS",
+    "ArrivalTime": "23:50:00",
+    "Destination": "SVDK",
+    "DepartureTime": "23:55:00"
+  },
+  {
+    "TrainNo": "12446",
+    "TrainName": "UTTAR SMPRK",
+    "Source": "SVDK",
+    "ArrivalTime": "03:35:00",
+    "Destination": "NDLS",
+    "DepartureTime": "03:40:00"
+  },
+  {
+    "TrainNo": "12449",
+    "TrainName": "GOA SMPRK K",
+    "Source": "MAO",
+    "ArrivalTime": "22:20:00",
+    "Destination": "CDG",
+    "DepartureTime": "22:37:00"
+  },
+  {
+    "TrainNo": "12450",
+    "TrainName": "GOA SMPRK KR",
+    "Source": "CDG",
+    "ArrivalTime": "02:50:00",
+    "Destination": "MAO",
+    "DepartureTime": "03:00:00"
+  },
+  {
+    "TrainNo": "12459",
+    "TrainName": "ASR-NDLS  EXPRESS",
+    "Source": "NDLS",
+    "ArrivalTime": "17:15:00",
+    "Destination": "ASR",
+    "DepartureTime": "17:20:00"
+  },
+  {
+    "TrainNo": "12460",
+    "TrainName": "ASR-NDLS  EXPRESS",
+    "Source": "ASR",
+    "ArrivalTime": "10:45:00",
+    "Destination": "NDLS",
+    "DepartureTime": "10:55:00"
+  },
+  {
+    "TrainNo": "12469",
+    "TrainName": "CNB-JAT  EXPRESS",
+    "Source": "CNB",
+    "ArrivalTime": "05:05:00",
+    "Destination": "JAT",
+    "DepartureTime": "05:10:00"
+  },
+  {
+    "TrainNo": "12470",
+    "TrainName": "JAT-CNB  EXPRESS",
+    "Source": "JAT",
+    "ArrivalTime": "02:25:00",
+    "Destination": "CNB",
+    "DepartureTime": "02:35:00"
+  },
+  {
+    "TrainNo": "12471",
+    "TrainName": "SWARAJ  EXPRESS",
+    "Source": "BDTS",
+    "ArrivalTime": "07:55:00",
+    "Destination": "SVDK",
+    "DepartureTime": "08:05:00"
+  },
+  {
+    "TrainNo": "12472",
+    "TrainName": "SWARAJ  EXPRESS",
+    "Source": "SVDK",
+    "ArrivalTime": "17:50:00",
+    "Destination": "BDTS",
+    "DepartureTime": "18:00:00"
+  },
+  {
+    "TrainNo": "12473",
+    "TrainName": "SARVODAYA  EXPRESS",
+    "Source": "ADI",
+    "ArrivalTime": "07:55:00",
+    "Destination": "SVDK",
+    "DepartureTime": "08:05:00"
+  },
+  {
+    "TrainNo": "12474",
+    "TrainName": "SARVODAYA  EXPRESS",
+    "Source": "SVDK",
+    "ArrivalTime": "17:50:00",
+    "Destination": "ADI",
+    "DepartureTime": "18:00:00"
+  },
+  {
+    "TrainNo": "12475",
+    "TrainName": "HAPA JAT  EXPRESS",
+    "Source": "HAPA",
+    "ArrivalTime": "07:55:00",
+    "Destination": "SVDK",
+    "DepartureTime": "08:05:00"
+  },
+  {
+    "TrainNo": "12476",
+    "TrainName": "SARVODAYA  EXPRESS",
+    "Source": "SVDK",
+    "ArrivalTime": "17:50:00",
+    "Destination": "HAPA",
+    "DepartureTime": "18:00:00"
+  },
+  {
+    "TrainNo": "12477",
+    "TrainName": "JAM SVDK  EXPRESS",
+    "Source": "JAM",
+    "ArrivalTime": "07:55:00",
+    "Destination": "SVDK",
+    "DepartureTime": "08:05:00"
+  },
+  {
+    "TrainNo": "12478",
+    "TrainName": "SVDK- JAMNAG",
+    "Source": "SVDK",
+    "ArrivalTime": "17:50:00",
+    "Destination": "JAM",
+    "DepartureTime": "18:00:00"
+  },
+  {
+    "TrainNo": "12483",
+    "TrainName": "KCVL EXPRESS",
+    "Source": "KCVL",
+    "ArrivalTime": "14:50:00",
+    "Destination": "ASR",
+    "DepartureTime": "15:05:00"
+  },
+  {
+    "TrainNo": "12484",
+    "TrainName": "KCVL EXPRESS",
+    "Source": "ASR",
+    "ArrivalTime": "10:05:00",
+    "Destination": "KCVL",
+    "DepartureTime": "10:20:00"
+  },
+  {
+    "TrainNo": "12491",
+    "TrainName": "MOURDHWAJ  EXPRESS",
+    "Source": "BJU",
+    "ArrivalTime": "05:05:00",
+    "Destination": "JAT",
+    "DepartureTime": "05:10:00"
+  },
+  {
+    "TrainNo": "12492",
+    "TrainName": "MOURDHAJ  EXPRESS",
+    "Source": "JAT",
+    "ArrivalTime": "02:25:00",
+    "Destination": "BJU",
+    "DepartureTime": "02:35:00"
+  },
+  {
+    "TrainNo": "12497",
+    "TrainName": "SHANE PUNJAB",
+    "Source": "NDLS",
+    "ArrivalTime": "10:10:00",
+    "Destination": "ASR",
+    "DepartureTime": "10:15:00"
+  },
+  {
+    "TrainNo": "12498",
+    "TrainName": "SHANE PUNJAB",
+    "Source": "ASR",
+    "ArrivalTime": "19:20:00",
+    "Destination": "NDLS",
+    "DepartureTime": "19:25:00"
+  },
+  {
+    "TrainNo": "12527",
+    "TrainName": "RMR-CDG - WE",
+    "Source": "RMR",
+    "ArrivalTime": "12:30:00",
+    "Destination": "CDG",
+    "DepartureTime": "12:42:00"
+  },
+  {
+    "TrainNo": "12549",
+    "TrainName": "DURG - JAT S",
+    "Source": "DURG",
+    "ArrivalTime": "13:00:00",
+    "Destination": "JAT",
+    "DepartureTime": "13:10:00"
+  },
+  {
+    "TrainNo": "12550",
+    "TrainName": "JAT - DURG S",
+    "Source": "JAT",
+    "ArrivalTime": "11:40:00",
+    "Destination": "DURG",
+    "DepartureTime": "11:50:00"
+  },
+  {
+    "TrainNo": "12587",
+    "TrainName": "AMAR NATH  EXPRESS",
+    "Source": "GKP",
+    "ArrivalTime": "05:40:00",
+    "Destination": "JAT",
+    "DepartureTime": "05:48:00"
+  },
+  {
+    "TrainNo": "12588",
+    "TrainName": "JAMMU GKP  EXPRESS",
+    "Source": "JAT",
+    "ArrivalTime": "05:17:00",
+    "Destination": "GKP",
+    "DepartureTime": "05:25:00"
+  },
+  {
+    "TrainNo": "12715",
+    "TrainName": "NED-ASR SACH",
+    "Source": "NED",
+    "ArrivalTime": "15:45:00",
+    "Destination": "ASR",
+    "DepartureTime": "15:50:00"
+  },
+  {
+    "TrainNo": "12716",
+    "TrainName": "ASR-NED SACH",
+    "Source": "ASR",
+    "ArrivalTime": "09:55:00",
+    "Destination": "NED",
+    "DepartureTime": "10:00:00"
+  },
+  {
+    "TrainNo": "12903",
+    "TrainName": "GOLDENTEMPLE",
+    "Source": "BCT",
+    "ArrivalTime": "00:45:00",
+    "Destination": "ASR",
+    "DepartureTime": "00:55:00"
+  },
+  {
+    "TrainNo": "12904",
+    "TrainName": "GOLDN TEMPLE",
+    "Source": "ASR",
+    "ArrivalTime": "01:50:00",
+    "Destination": "BCT",
+    "DepartureTime": "02:00:00"
+  },
+  {
+    "TrainNo": "12919",
+    "TrainName": "MALWA  EXPRESS",
+    "Source": "INDB",
+    "ArrivalTime": "08:55:00",
+    "Destination": "SVDK",
+    "DepartureTime": "09:05:00"
+  },
+  {
+    "TrainNo": "12920",
+    "TrainName": "MALWA  EXPRESS",
+    "Source": "SVDK",
+    "ArrivalTime": "15:35:00",
+    "Destination": "INDB",
+    "DepartureTime": "15:40:00"
+  },
+  {
+    "TrainNo": "12925",
+    "TrainName": "PASCHIM  EXPRESS",
+    "Source": "BDTS",
+    "ArrivalTime": "14:40:00",
+    "Destination": "ASR",
+    "DepartureTime": "14:55:00"
+  },
+  {
+    "TrainNo": "12926",
+    "TrainName": "PASCHIM  EXPRESS",
+    "Source": "ASR",
+    "ArrivalTime": "12:35:00",
+    "Destination": "BDTS",
+    "DepartureTime": "13:05:00"
+  },
+  {
+    "TrainNo": "12983",
+    "TrainName": "AII CDG G RA",
+    "Source": "AII",
+    "ArrivalTime": "05:50:00",
+    "Destination": "CDG",
+    "DepartureTime": "06:00:00"
+  },
+  {
+    "TrainNo": "12984",
+    "TrainName": "CDG AII G RA",
+    "Source": "CDG",
+    "ArrivalTime": "21:30:00",
+    "Destination": "AII",
+    "DepartureTime": "21:40:00"
+  },
+  {
+    "TrainNo": "13005",
+    "TrainName": "AMRITSAR MAI",
+    "Source": "HWH",
+    "ArrivalTime": "02:55:00",
+    "Destination": "ASR",
+    "DepartureTime": "03:15:00"
+  },
+  {
+    "TrainNo": "13006",
+    "TrainName": "ASR HWH MAIL",
+    "Source": "ASR",
+    "ArrivalTime": "23:20:00",
+    "Destination": "HWH",
+    "DepartureTime": "23:30:00"
+  },
+  {
+    "TrainNo": "13049",
+    "TrainName": "AMRITSAR  EXPRESS",
+    "Source": "HWH",
+    "ArrivalTime": "04:35:00",
+    "Destination": "ASR",
+    "DepartureTime": "04:45:00"
+  },
+  {
+    "TrainNo": "13050",
+    "TrainName": "ASR HWH  EXPRESS",
+    "Source": "ASR",
+    "ArrivalTime": "23:00:00",
+    "Destination": "HWH",
+    "DepartureTime": "23:10:00"
+  },
+  {
+    "TrainNo": "13151",
+    "TrainName": "JAMMU TAWI E",
+    "Source": "KOAA",
+    "ArrivalTime": "23:00:00",
+    "Destination": "JAT",
+    "DepartureTime": "23:10:00"
+  },
+  {
+    "TrainNo": "13152",
+    "TrainName": "SEALDAH  EXPRESS",
+    "Source": "JAT",
+    "ArrivalTime": "04:20:00",
+    "Destination": "KOAA",
+    "DepartureTime": "04:30:00"
+  },
+  {
+    "TrainNo": "13307",
+    "TrainName": "GANGASUTLEJ",
+    "Source": "DHN",
+    "ArrivalTime": "03:45:00",
+    "Destination": "FZR",
+    "DepartureTime": "03:55:00"
+  },
+  {
+    "TrainNo": "13308",
+    "TrainName": "GANGASATLUJ",
+    "Source": "FZR",
+    "ArrivalTime": "00:38:00",
+    "Destination": "DHN",
+    "DepartureTime": "00:48:00"
+  },
+  {
+    "TrainNo": "14011",
+    "TrainName": "DLI-HSX  EXPRESS",
+    "Source": "DLI",
+    "ArrivalTime": "00:35:00",
+    "Destination": "HSX",
+    "DepartureTime": "00:45:00"
+  },
+  {
+    "TrainNo": "14012",
+    "TrainName": "HSX-DLI  EXPRESS",
+    "Source": "HSX",
+    "ArrivalTime": "03:00:00",
+    "Destination": "DLI",
+    "DepartureTime": "03:10:00"
+  },
+  {
+    "TrainNo": "14033",
+    "TrainName": "JAMMU MAIL",
+    "Source": "DLI",
+    "ArrivalTime": "00:15:00",
+    "Destination": "SVDK",
+    "DepartureTime": "00:20:00"
+  },
+  {
+    "TrainNo": "14034",
+    "TrainName": "JAMMU MAIL",
+    "Source": "SVDK",
+    "ArrivalTime": "01:40:00",
+    "Destination": "DLI",
+    "DepartureTime": "01:50:00"
+  },
+  {
+    "TrainNo": "14095",
+    "TrainName": "HIMALAYAN QU",
+    "Source": "DEE",
+    "ArrivalTime": "09:45:00",
+    "Destination": "KLK",
+    "DepartureTime": "09:50:00"
+  },
+  {
+    "TrainNo": "14096",
+    "TrainName": "HIMALAYAN QU",
+    "Source": "KLK",
+    "ArrivalTime": "18:20:00",
+    "Destination": "DEE",
+    "DepartureTime": "18:30:00"
+  },
+  {
+    "TrainNo": "14217",
+    "TrainName": "UNCHAHAR  EXPRESS",
+    "Source": "PRG",
+    "ArrivalTime": "08:30:00",
+    "Destination": "CDG",
+    "DepartureTime": "08:42:00"
+  },
+  {
+    "TrainNo": "14218",
+    "TrainName": "UNCHAHAR  EXPRESS",
+    "Source": "CDG",
+    "ArrivalTime": "17:25:00",
+    "Destination": "PRG",
+    "DepartureTime": "17:30:00"
+  },
+  {
+    "TrainNo": "14521",
+    "TrainName": "DELHI-AMBALA",
+    "Source": "DLI",
+    "ArrivalTime": "18:45:00",
+    "Destination": "UMB",
+    "DepartureTime": "18:45:00"
+  },
+  {
+    "TrainNo": "14522",
+    "TrainName": "AMBALA-DELHI",
+    "Source": "UMB",
+    "ArrivalTime": "05:40:00",
+    "Destination": "DLI",
+    "DepartureTime": "05:40:00"
+  },
+  {
+    "TrainNo": "14523",
+    "TrainName": "MFP-UMB  EXPRESS",
+    "Source": "BJU",
+    "ArrivalTime": "07:55:00",
+    "Destination": "UMB",
+    "DepartureTime": "07:55:00"
+  },
+  {
+    "TrainNo": "14524",
+    "TrainName": "UMB-MFP HARI",
+    "Source": "UMB",
+    "ArrivalTime": "22:45:00",
+    "Destination": "BJU",
+    "DepartureTime": "22:45:00"
+  },
+  {
+    "TrainNo": "14525",
+    "TrainName": "UMB - SGNR I",
+    "Source": "UMB",
+    "ArrivalTime": "05:15:00",
+    "Destination": "SGNR",
+    "DepartureTime": "05:15:00"
+  },
+  {
+    "TrainNo": "54303",
+    "TrainName": "DLI-KLK PASS",
+    "Source": "DLI",
+    "ArrivalTime": "21:25:00",
+    "Destination": "KLK",
+    "DepartureTime": "22:08:00"
+  },
+  {
+    "TrainNo": "54304",
+    "TrainName": "KLK DLI PASS",
+    "Source": "KLK",
+    "ArrivalTime": "09:13:00",
+    "Destination": "DLI",
+    "DepartureTime": "09:30:00"
+  },
+  {
+    "TrainNo": "54531",
+    "TrainName": "UMB KLK PASS",
+    "Source": "UMB",
+    "ArrivalTime": "18:30:00",
+    "Destination": "KLK",
+    "DepartureTime": "18:30:00"
+  },
+  {
+    "TrainNo": "54532",
+    "TrainName": "KLK UMB PASS",
+    "Source": "KLK",
+    "ArrivalTime": "14:45:00",
+    "Destination": "UMB",
+    "DepartureTime": "14:45:00"
+  },
+  {
+    "TrainNo": "54539",
+    "TrainName": "DELHI AMBALA",
+    "Source": "NZM",
+    "ArrivalTime": "14:15:00",
+    "Destination": "UMB",
+    "DepartureTime": "14:15:00"
+  },
+  {
+    "TrainNo": "54540",
+    "TrainName": "AMBALA DELHI",
+    "Source": "UMB",
+    "ArrivalTime": "14:35:00",
+    "Destination": "NZM",
+    "DepartureTime": "14:35:00"
+  },
+  {
+    "TrainNo": "54541",
+    "TrainName": "MEERUT AMBAL",
+    "Source": "MTC",
+    "ArrivalTime": "11:10:00",
+    "Destination": "UMB",
+    "DepartureTime": "11:10:00"
+  },
+  {
+    "TrainNo": "54542",
+    "TrainName": "AMBALA MEERU",
+    "Source": "UMB",
+    "ArrivalTime": "16:25:00",
+    "Destination": "MTC",
+    "DepartureTime": "16:25:00"
+  },
+  {
+    "TrainNo": "54551",
+    "TrainName": "UMB - BTI PA",
+    "Source": "UMB",
+    "ArrivalTime": "11:00:00",
+    "Destination": "BTI",
+    "DepartureTime": "11:00:00"
+  },
+  {
+    "TrainNo": "54552",
+    "TrainName": "BTI - UMB PA",
+    "Source": "BTI",
+    "ArrivalTime": "12:45:00",
+    "Destination": "UMB",
+    "DepartureTime": "12:45:00"
+  },
+  {
+    "TrainNo": "54553",
+    "TrainName": "UMB - DUI PA",
+    "Source": "UMB",
+    "ArrivalTime": "15:55:00",
+    "Destination": "DUI",
+    "DepartureTime": "15:55:00"
+  },
+  {
+    "TrainNo": "54556",
+    "TrainName": "BTI - UMB PA",
+    "Source": "BTI",
+    "ArrivalTime": "23:10:00",
+    "Destination": "UMB",
+    "DepartureTime": "23:10:00"
+  },
+  {
+    "TrainNo": "54557",
+    "TrainName": "UMB - PTA PA",
+    "Source": "UMB",
+    "ArrivalTime": "07:40:00",
+    "Destination": "PTA",
+    "DepartureTime": "07:40:00"
+  },
+  {
+    "TrainNo": "54558",
+    "TrainName": "PTA - UMB PA",
+    "Source": "PTA",
+    "ArrivalTime": "18:35:00",
+    "Destination": "UMB",
+    "DepartureTime": "18:35:00"
+  },
+  {
+    "TrainNo": "54757",
+    "TrainName": "UMB-SGNR PAS",
+    "Source": "UMB",
+    "ArrivalTime": "06:25:00",
+    "Destination": "SGNR",
+    "DepartureTime": "06:25:00"
+  },
+  {
+    "TrainNo": "54758",
+    "TrainName": "SGNR-UMB PAS",
+    "Source": "SGNR",
+    "ArrivalTime": "19:35:00",
+    "Destination": "UMB",
+    "DepartureTime": "19:35:00"
+  },
+  {
+    "TrainNo": "64481",
+    "TrainName": "PNP-UMB MEMU",
+    "Source": "PNP",
+    "ArrivalTime": "22:50:00",
+    "Destination": "UMB",
+    "DepartureTime": "22:50:00"
+  },
+  {
+    "TrainNo": "64482",
+    "TrainName": "UMB-KKDE MEM",
+    "Source": "UMB",
+    "ArrivalTime": "04:35:00",
+    "Destination": "KKDE",
+    "DepartureTime": "04:35:00"
+  },
+  {
+    "TrainNo": "64483",
+    "TrainName": "KKDE-UMB MEM",
+    "Source": "KKDE",
+    "ArrivalTime": "00:00:00",
+    "Destination": "UMB",
+    "DepartureTime": "00:00:00"
+  },
+  {
+    "TrainNo": "64501",
+    "TrainName": "UMB-SRE PASS",
+    "Source": "SRE",
+    "ArrivalTime": "07:10:00",
+    "Destination": "UMB",
+    "DepartureTime": "07:10:00"
+  },
+  {
+    "TrainNo": "64502",
+    "TrainName": "UMB-SRE PASS",
+    "Source": "UMB",
+    "ArrivalTime": "12:10:00",
+    "Destination": "SRE",
+    "DepartureTime": "12:10:00"
+  },
+  {
+    "TrainNo": "64504",
+    "TrainName": "UMB-SRE PASS",
+    "Source": "UMB",
+    "ArrivalTime": "19:30:00",
+    "Destination": "SRE",
+    "DepartureTime": "19:30:00"
+  },
+  {
+    "TrainNo": "64511",
+    "TrainName": "SRE-NLDM PAS",
+    "Source": "SRE",
+    "ArrivalTime": "08:30:00",
+    "Destination": "NLDM",
+    "DepartureTime": "08:55:00"
+  },
+  {
+    "TrainNo": "64512",
+    "TrainName": "NLDM-SRE PAS",
+    "Source": "NLDM",
+    "ArrivalTime": "18:10:00",
+    "Destination": "SRE",
+    "DepartureTime": "18:20:00"
+  },
+  {
+    "TrainNo": "64513",
+    "TrainName": "SRE-NLDM PAS",
+    "Source": "SRE",
+    "ArrivalTime": "18:25:00",
+    "Destination": "NLDM",
+    "DepartureTime": "18:55:00"
+  },
+  {
+    "TrainNo": "64514",
+    "TrainName": "NLDM-UMB PAS",
+    "Source": "NLDM",
+    "ArrivalTime": "09:30:00",
+    "Destination": "UMB",
+    "DepartureTime": "09:30:00"
+  },
+  {
+    "TrainNo": "64515",
+    "TrainName": "UMB-NLDM PAS",
+    "Source": "UMB",
+    "ArrivalTime": "06:10:00",
+    "Destination": "NLDM",
+    "DepartureTime": "06:10:00"
+  },
+  {
+    "TrainNo": "64516",
+    "TrainName": "NLDM-UMB PAS",
+    "Source": "NLDM",
+    "ArrivalTime": "15:50:00",
+    "Destination": "UMB",
+    "DepartureTime": "15:50:00"
+  },
+  {
+    "TrainNo": "64517",
+    "TrainName": "UMB-NLDM PAS",
+    "Source": "UMB",
+    "ArrivalTime": "11:40:00",
+    "Destination": "NLDM",
+    "DepartureTime": "11:40:00"
+  },
+  {
+    "TrainNo": "64518",
+    "TrainName": "NLDM-UMB PAS",
+    "Source": "NLDM",
+    "ArrivalTime": "21:05:00",
+    "Destination": "UMB",
+    "DepartureTime": "21:05:00"
+  },
+  {
+    "TrainNo": "64521",
+    "TrainName": "UMB-LDH PASS",
+    "Source": "UMB",
+    "ArrivalTime": "05:50:00",
+    "Destination": "LDH",
+    "DepartureTime": "05:50:00"
+  },
+  {
+    "TrainNo": "64522",
+    "TrainName": "LDH-UMB MEMU",
+    "Source": "LDH",
+    "ArrivalTime": "18:45:00",
+    "Destination": "UMB",
+    "DepartureTime": "18:45:00"
+  },
+  {
+    "TrainNo": "64523",
+    "TrainName": "UMB-LDH MEMU",
+    "Source": "UMB",
+    "ArrivalTime": "08:35:00",
+    "Destination": "LDH",
+    "DepartureTime": "08:35:00"
+  },
+  {
+    "TrainNo": "64524",
+    "TrainName": "LDH-UMB MEMU",
+    "Source": "LDH",
+    "ArrivalTime": "20:10:00",
+    "Destination": "UMB",
+    "DepartureTime": "20:10:00"
+  },
+  {
+    "TrainNo": "64532",
+    "TrainName": "UMB-DLI MEMU",
+    "Source": "UMB",
+    "ArrivalTime": "06:50:00",
+    "Destination": "PNP",
+    "DepartureTime": "06:50:00"
+  },
+  {
+    "TrainNo": "64541",
+    "TrainName": "PNP-UMB PAS",
+    "Source": "PNP",
+    "ArrivalTime": "08:20:00",
+    "Destination": "UMB",
+    "DepartureTime": "08:20:00"
+  },
+  {
+    "TrainNo": "64542",
+    "TrainName": "UMB-PNP PASS",
+    "Source": "UMB",
+    "ArrivalTime": "20:50:00",
+    "Destination": "PNP",
+    "DepartureTime": "20:50:00"
+  },
+  {
+    "TrainNo": "64543",
+    "TrainName": "PNP-UMB MEMU",
+    "Source": "PNP",
+    "ArrivalTime": "20:40:00",
+    "Destination": "UMB",
+    "DepartureTime": "20:40:00"
+  },
+  {
+    "TrainNo": "64545",
+    "TrainName": "KKDE-UMB PAS",
+    "Source": "KKDE",
+    "ArrivalTime": "11:35:00",
+    "Destination": "UMB",
+    "DepartureTime": "11:35:00"
+  },
+  {
+    "TrainNo": "64546",
+    "TrainName": "UMB-KKDE PAS",
+    "Source": "UMB",
+    "ArrivalTime": "07:45:00",
+    "Destination": "KKDE",
+    "DepartureTime": "07:45:00"
+  },
+  {
+    "TrainNo": "64547",
+    "TrainName": "KKDE-UMB PAS",
+    "Source": "KKDE",
+    "ArrivalTime": "19:10:00",
+    "Destination": "UMB",
+    "DepartureTime": "19:10:00"
+  },
+  {
+    "TrainNo": "64548",
+    "TrainName": "UMB-KKDE PAS",
+    "Source": "UMB",
+    "ArrivalTime": "16:10:00",
+    "Destination": "KKDE",
+    "DepartureTime": "16:10:00"
+  },
+  {
+    "TrainNo": "64561",
+    "TrainName": "DLI-UMB MEMU",
+    "Source": "DLI",
+    "ArrivalTime": "19:20:00",
+    "Destination": "UMB",
+    "DepartureTime": "19:20:00"
+  },
+  {
+    "TrainNo": "64562",
+    "TrainName": "UMB-DLI MEMU",
+    "Source": "UMB",
+    "ArrivalTime": "06:00:00",
+    "Destination": "DLI",
+    "DepartureTime": "06:00:00"
+  },
+  {
+    "TrainNo": "64563",
+    "TrainName": "UMB-NLDM-ADD",
+    "Source": "UMB",
+    "ArrivalTime": "07:35:00",
+    "Destination": "AADR",
+    "DepartureTime": "07:35:00"
+  },
+  {
+    "TrainNo": "64564",
+    "TrainName": "AADR-NLDM-UM",
+    "Source": "AADR",
+    "ArrivalTime": "19:40:00",
+    "Destination": "UMB",
+    "DepartureTime": "19:40:00"
+  },
+  {
+    "TrainNo": "74645",
+    "TrainName": "UMB-JUC PASS",
+    "Source": "UMB",
+    "ArrivalTime": "14:40:00",
+    "Destination": "JUC",
+    "DepartureTime": "14:40:00"
+  },
+  {
+    "TrainNo": "74646",
+    "TrainName": "JUC-UMB PASS",
+    "Source": "JUC",
+    "ArrivalTime": "10:15:00",
+    "Destination": "UMB",
+    "DepartureTime": "10:15:00"
+  },
+  {
+    "TrainNo": "74991",
+    "TrainName": "UMB-CHDL PAS",
+    "Source": "UMB",
+    "ArrivalTime": "14:20:00",
+    "Destination": "AADR",
+    "DepartureTime": "14:20:00"
+  },
+  {
+    "TrainNo": "74992",
+    "TrainName": "CHDL-UMB PAS",
+    "Source": "AADR",
+    "ArrivalTime": "13:10:00",
+    "Destination": "UMB",
+    "DepartureTime": "13:10:00"
+  },
+  {
+    "TrainNo": "74993",
+    "TrainName": "KKDE-UMB PAS",
+    "Source": "KKDE",
+    "ArrivalTime": "13:35:00",
+    "Destination": "UMB",
+    "DepartureTime": "13:35:00"
+  },
+  {
+    "TrainNo": "74994",
+    "TrainName": "UMB-KKDE PAS",
+    "Source": "UMB",
+    "ArrivalTime": "10:30:00",
+    "Destination": "KKDE",
+    "DepartureTime": "10:30:00"
+  },
+  {
+    "TrainNo": "82651",
+    "TrainName": "YPR-SVDK WEE",
+    "Source": "YPR",
+    "ArrivalTime": "10:50:00",
+    "Destination": "SVDK",
+    "DepartureTime": "10:55:00"
+  },
+  {
+    "TrainNo": "82652",
+    "TrainName": "SVDK-YPR WEE",
+    "Source": "SVDK",
+    "ArrivalTime": "14:08:00",
+    "Destination": "YPR",
+    "DepartureTime": "14:10:00"
+  }
+]
